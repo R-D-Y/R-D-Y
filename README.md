@@ -27,8 +27,6 @@ I work with several tools and languages, including: :
 
 
 
-Thank you for visiting my Github profile!
-
 Automation Enthusiast           
 
 | 🌱 I'm currently learning|
@@ -39,6 +37,8 @@ Automation Enthusiast
 | 🚀Gitlab CI/CD |
 | ⏰K8s ASAP |
 
+
+Thank you for visiting my Github profile!
 
 <!--
 **R-D-Y/R-D-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
