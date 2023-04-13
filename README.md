@@ -34,7 +34,7 @@ Automation Enthusiast
 | 🌱 I'm currently learning|
 |-------------------------------------|
 | 🏗️Terraform |
-| 🛰️Satellite |
+| 🛰️Ansible Tower |
 | 📦Vagrant |
 | 🚀Gitlab CI/CD |
 | ⏰K8s ASAP |
