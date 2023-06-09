@@ -2,12 +2,7 @@
 
 
 # ✨Welcome to my Github profile!✨
-<div style="text-align:center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R-D-Y&theme=merko" alt="R-D-Y's GitHub stats">
-</div>
-
-![](https://komarev.com/ghpvc/?username=R-D-Y&color=blue)
-
+<br>
 
 I am thrilled to welcome you to my Github profile! This profile is a way for me to share my experiences in process automation, as well as my knowledge in general.
 
@@ -44,6 +39,15 @@ Automation Enthusiast
 
 
 Thank you for visiting my Github profile!
+
+<br><br>
+
+<div style="text-align:center">
+  <img src="https://github-readme-stats.vercel.app/api?username=R-D-Y&theme=merko" alt="R-D-Y's GitHub stats">
+</div>
+
+![](https://komarev.com/ghpvc/?username=R-D-Y&color=blue)
+
 
 <!--
 **R-D-Y/R-D-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
