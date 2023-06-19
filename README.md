@@ -45,7 +45,7 @@ Thank you for visiting my Github profile!
 <div style="text-align:center">
   <img src="https://github-readme-stats.vercel.app/api?username=R-D-Y&theme=merko" alt="R-D-Y's GitHub stats">
 </div>
-
+<br><br>
 ![](https://komarev.com/ghpvc/?username=R-D-Y&color=blue)
 
 
