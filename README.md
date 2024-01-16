@@ -23,6 +23,7 @@ I work with several tools and languages, including: :
 - 🔧OpenShift
 - 🐳Docker
 - 🔀Traefik
+- 🔗 AWX
 
 & Many others!
 
