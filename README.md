@@ -22,6 +22,7 @@ I work with several tools and languages, including: :
 - 🛰Satellite
 - 🔧OpenShift
 - 🐳Docker
+- 🔀Traefik
 
 & Many others!
 
